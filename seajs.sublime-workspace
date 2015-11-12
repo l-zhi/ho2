@@ -1,0 +1,759 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"m",
+				"module_id"
+			],
+			[
+				"mo",
+				"module_id"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"a",
+				"async"
+			],
+			[
+				"loa",
+				"loadedCount"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"js",
+				"jsonp"
+			],
+			[
+				"RE",
+				"require"
+			],
+			[
+				"h",
+				"HO2"
+			],
+			[
+				"log",
+				"logModules"
+			],
+			[
+				"re",
+				"register"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"im",
+				"imgplayer"
+			],
+			[
+				"remove",
+				"removeEventListener"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"tr",
+				"translate3d"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"get",
+				"gettransfromvalue"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pr",
+				"prefix"
+			],
+			[
+				"ex",
+				"exports"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "ho2.html",
+			"settings":
+			{
+				"buffer_size": 19577,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ho2-2.html",
+			"settings":
+			{
+				"buffer_size": 1601,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ho2.js",
+			"settings":
+			{
+				"buffer_size": 4013,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dev/klass.js",
+			"settings":
+			{
+				"buffer_size": 1055,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dev/enter.js",
+			"settings":
+			{
+				"buffer_size": 382,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "dev/imgplayer.js",
+			"settings":
+			{
+				"buffer_size": 12261,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/lienxin/svn/trunk/resource/js/halo/halo.15.01/dev/jsonp.js",
+			"settings":
+			{
+				"buffer_size": 1959,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/lienxin/svn/trunk/static/promote/2015/sns/css/index.version.5.0.css",
+			"settings":
+			{
+				"buffer_size": 79159,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/etc/hosts",
+			"settings":
+			{
+				"buffer_size": 303,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "zepto.js",
+			"settings":
+			{
+				"buffer_size": 38056,
+				"line_ending": "Unix",
+				"name": "var Zepto=function(){function G(a){return null==a?"
+			}
+		},
+		{
+			"file": "/Users/lienxin/svn/trunk/static/promote/2015/sns/version.5.0.html",
+			"settings":
+			{
+				"buffer_size": 32201,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/lienxin/svn/trunk/resource/js/ho2",
+		"/Users/lienxin/svn/trunk/resource/js/sea.js"
+	],
+	"file_history":
+	[
+		"/Users/lienxin/svn/trunk/resource/js/halo/halo.15.01/dev/imgplayer.js",
+		"/Users/lienxin/svn/trunk/resource/js/sea.js/demo.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/ho2.html",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/prefix.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/klass.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/ho2.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/imgplayer.js",
+		"/Users/lienxin/svn/trunk/resource/js/halo/halo.15.01.dev.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/stylesheet.js",
+		"/etc/hosts",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/gettransfromvalue.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/css.js",
+		"/Users/lienxin/svn/trunk/resource/js/halo/halo.15.01/dev/css.js",
+		"/Users/lienxin/svn/trunk/static/promote/2015/100brand/css/index.css",
+		"/Users/lienxin/svn/trunk/static/promote/2015/100brand/home.html",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/hocmd.html",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/demo.js",
+		"/ho2.sublime-project",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/seajs-3.0.0/docs/index.html",
+		"/Users/lienxin/svn/trunk/static/promote/2015/plugin/goodsList.html",
+		"/Users/lienxin/svn/trunk/static/promote/2015/1111-2/css/index.css",
+		"/Users/lienxin/svn/trunk/resource/js/halo/halo.15.01/dev/openapp.js",
+		"/Users/lienxin/svn/trunk/static/promote/2015/100brand/game.html",
+		"/Users/lienxin/Downloads/openApp.html",
+		"/Users/lienxin/svn/trunk/static/promote/2015/1111-2/index.html",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/seajs-3.0.0/tests/index.html",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/seajs-3.0.0/index.html",
+		"/Users/lienxin/svn/trunk/resource/js/halo/halo.15.01/loader.js",
+		"/Users/lienxin/Desktop/loader",
+		"/Users/lienxin/svn/trunk/resource/js/halo/halo/loader.js",
+		"/Users/lienxin/svn/trunk/resource/js/halo/halo.14.03/loader.js",
+		"/Users/lienxin/Desktop/openapp",
+		"/private/etc/hosts"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"enter",
+			"cb()",
+			"modules",
+			"HO2.modules",
+			"modules[module_id]",
+			"++loadedCount",
+			"			\n",
+			"mygift",
+			"_deps[i].deps[j]",
+			"preLoadModules",
+			"removeClass",
+			"klass",
+			"Zepto",
+			"stylesheet",
+			"Zepto",
+			"m.off",
+			"m.on",
+			"m.",
+			"m.css",
+			"m.off",
+			"PAGE_DRAG_",
+			"getComputedStyle",
+			"get_transfrom_value",
+			"modules",
+			"openapp",
+			"sysbusy",
+			"    .",
+			"gotoMJD"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "ho2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1366,
+								1366
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1686.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "ho2-2.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1601,
+								1601
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ho2.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4013,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3264,
+								3264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 531.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "dev/klass.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1055,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "dev/enter.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								323,
+								323
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "dev/imgplayer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12261,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								354,
+								354
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 62.0,
+						"translation.y": 147.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/lienxin/svn/trunk/resource/js/halo/halo.15.01/dev/jsonp.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1346,
+								1346
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/lienxin/svn/trunk/static/promote/2015/sns/css/index.version.5.0.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 79159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70303,
+								70303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 13085.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/etc/hosts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							],
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "zepto.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 38056,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								38056,
+								38056
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var Zepto=function(){function G(a){return null==a?",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Users/lienxin/svn/trunk/static/promote/2015/sns/version.5.0.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 32201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2782,
+								2782
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 514.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "seajs.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
