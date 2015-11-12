@@ -1,0 +1,493 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"halo",
+				"halo_text_marquee2"
+			],
+			[
+				"co",
+				"containers"
+			],
+			[
+				"ma",
+				"make"
+			],
+			[
+				"tex",
+				"textMarquee"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"con",
+				"constructor"
+			],
+			[
+				"a",
+				"args"
+			],
+			[
+				"mar",
+				"marquee_class"
+			],
+			[
+				"mq",
+				"marquee_class"
+			],
+			[
+				"style",
+				"styleSheet"
+			],
+			[
+				"regi",
+				"registerred"
+			],
+			[
+				"mo",
+				"module_id"
+			],
+			[
+				"ent",
+				"enter"
+			],
+			[
+				"qu",
+				"queue"
+			],
+			[
+				"que",
+				"queue"
+			],
+			[
+				"enter",
+				"enterModule"
+			],
+			[
+				"lo",
+				"loadSubModules"
+			],
+			[
+				"en",
+				"enterModule"
+			],
+			[
+				"load",
+				"loadSubModules"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"arg",
+				"arguments"
+			],
+			[
+				"cn",
+				"console"
+			],
+			[
+				"img",
+				"imgplayer"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"m",
+				"module_id"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"loa",
+				"loadedCount"
+			],
+			[
+				"js",
+				"jsonp"
+			],
+			[
+				"RE",
+				"require"
+			],
+			[
+				"h",
+				"HO2"
+			],
+			[
+				"log",
+				"logModules"
+			],
+			[
+				"im",
+				"imgplayer"
+			],
+			[
+				"remove",
+				"removeEventListener"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"tr",
+				"translate3d"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"get",
+				"gettransfromvalue"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pr",
+				"prefix"
+			],
+			[
+				"ex",
+				"exports"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 13,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/lienxin/git/ho2"
+	],
+	"file_history":
+	[
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/prefix.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/ho2.html",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/ho2-2.html",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/ho2.js",
+		"/Users/lienxin/svn/trunk/resource/js/sea.js/hocmd.html",
+		"/Users/lienxin/svn/trunk/resource/js/sea.js/m1.js",
+		"/Users/lienxin/svn/trunk/resource/js/sea.js/demo.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/klass.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/enter.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/css.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/textMarquee.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/demo/textMarquee.html",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/shareTips.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/warn.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/demo/shareTips.html",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/demo/warn.html",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/launchApp.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/demo/launchApp.html",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/ezScroll.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/imgPlayer.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/isDom.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/getTransfromValue.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/styleSheet.js",
+		"/Users/lienxin/svn/trunk/resource/js/halo/halo.15.01/dev/jsonp.js",
+		"/Users/lienxin/svn/trunk/static/promote/2015/sns/css/index.version.5.0.css",
+		"/etc/hosts",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/zepto.js",
+		"/Users/lienxin/svn/trunk/static/promote/2015/sns/version.5.0.html",
+		"/Users/lienxin/svn/trunk/resource/js/halo/halo.15.01/dev/imgplayer.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/imgplayer.js",
+		"/Users/lienxin/svn/trunk/resource/js/halo/halo.15.01.dev.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/stylesheet.js",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/dev/gettransfromvalue.js",
+		"/Users/lienxin/svn/trunk/resource/js/halo/halo.15.01/dev/css.js",
+		"/Users/lienxin/svn/trunk/static/promote/2015/100brand/css/index.css",
+		"/Users/lienxin/svn/trunk/static/promote/2015/100brand/home.html",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/hocmd.html",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/demo.js",
+		"/ho2.sublime-project",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/seajs-3.0.0/docs/index.html",
+		"/Users/lienxin/svn/trunk/static/promote/2015/plugin/goodsList.html",
+		"/Users/lienxin/svn/trunk/static/promote/2015/1111-2/css/index.css",
+		"/Users/lienxin/svn/trunk/resource/js/halo/halo.15.01/dev/openapp.js",
+		"/Users/lienxin/svn/trunk/static/promote/2015/100brand/game.html",
+		"/Users/lienxin/Downloads/openApp.html",
+		"/Users/lienxin/svn/trunk/static/promote/2015/1111-2/index.html",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/seajs-3.0.0/tests/index.html",
+		"/Users/lienxin/svn/trunk/resource/js/ho2/seajs-3.0.0/index.html",
+		"/Users/lienxin/svn/trunk/resource/js/halo/halo.15.01/loader.js",
+		"/Users/lienxin/Desktop/loader",
+		"/Users/lienxin/svn/trunk/resource/js/halo/halo/loader.js",
+		"/Users/lienxin/svn/trunk/resource/js/halo/halo.14.03/loader.js",
+		"/Users/lienxin/Desktop/openapp",
+		"/private/etc/hosts"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"m.stylesheet",
+			"args.container",
+			"args.dom",
+			"style.innerHTML",
+			"console.log",
+			"HO2.modules[module_id].cb",
+			"registerred",
+			"console.log",
+			"loadSubModules",
+			"require.async",
+			"loaded",
+			"_loadModule",
+			"alert",
+			"HALO_PAGE_DRAG_RESTORE",
+			"HALO_PAGE_DRAG_H_KEEP",
+			"HALO_PAGE_DRAG_KEEP",
+			"HALO_PAGE_DRAG_H_KEEP",
+			"HALO_PAGE_DRAG_KEEP",
+			"HALO_PAGE_DRAG_H_KEEP",
+			"args",
+			"_module",
+			"_modules",
+			"enter",
+			"cb()",
+			"modules",
+			"HO2.modules",
+			"modules[module_id]",
+			"++loadedCount",
+			"			\n",
+			"mygift",
+			"_deps[i].deps[j]",
+			"preLoadModules",
+			"removeClass",
+			"klass",
+			"Zepto",
+			"stylesheet",
+			"Zepto",
+			"m.off",
+			"m.on",
+			"m.",
+			"m.css",
+			"m.off",
+			"PAGE_DRAG_",
+			"getComputedStyle",
+			"get_transfrom_value",
+			"modules",
+			"openapp",
+			"sysbusy",
+			"    .",
+			"gotoMJD"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ho2.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
